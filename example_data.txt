@@ -1,4 +1,4 @@
-Time period	"incidence rate (10,000 people per day)"
+Time	Rate
 08 June 2020 to 21 June 2020	0.59
 14 June 2020 to 27 June 2020	0.64
 22 June 2020 to 05 July 2020	0.3
